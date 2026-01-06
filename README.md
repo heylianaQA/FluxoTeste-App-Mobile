@@ -1,4 +1,4 @@
-# Teste Automatizado Android - EBAC Store
+# Fluxo de Teste Mobile - EBAC Store
 
 Projeto de automação para testes de cadastro de usuários no aplicativo EBAC Store, desenvolvido usando WebDriverIO e Appium, com execução na device farm Sauce Labs.
 
@@ -8,12 +8,12 @@ Este projeto automatiza o fluxo de cadastro de novos usuários no aplicativo EBA
 
 ## 🛠️ Tecnologias Utilizadas
 
-- WebDriverIO (v3.2.1) - Framework de automação
-- Appium (v3.9.8) - Ferramenta de automação mobile
-- Faker (v9.3.0) - Geração de dados para teste
+- WebDriverIO - Framework de automação
+- Appium - Ferramenta de automação mobile
+- Faker - Geração de dados para teste
 - Sauce Labs - Device farm para execução dos testes
-- TypeScript (v5.7.3) - Linguagem de programação
-- Mocha Framework (v9.5.0) - Framework de testes
+- TypeScript  - Linguagem de programação
+- Mocha Framework  - Framework de testes
 - Bundletool - Ferramenta para instalação do aplicativo
 
 ## 📁 Estrutura do Projeto
